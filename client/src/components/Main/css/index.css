@@ -1,0 +1,36 @@
+/* .stack-index {
+  min-width: fit-content;
+  display: flex;
+
+  min-height: 85vh;
+}
+
+.stack-home-content {
+  display: flex;
+  width: 100%;
+  
+} */
+/* align-items: center; */
+  /* justify-content: center; */
+
+  /* .wrapper {
+    display: flex;
+    justify-content: space-between;
+  }
+   */
+ 
+  /* .main {
+    width: 60%;
+    height: 150vh;
+  }
+  .sidebar {
+    width: 25%;
+    height: 25vh;
+  } */
+  
+  .sidebar {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+  }
+
